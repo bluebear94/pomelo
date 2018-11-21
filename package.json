@@ -42,7 +42,7 @@
     "pomelo-rpc": "1.0.7",
     "pomelo-scheduler": "^0.5.0",
     "seq-queue": "0.0.5",
-    "socket.io": "1.7.2",
+    "socket.io": "^2.1.1",
     "ws": "1.1.1"
   },
   "bin": {
